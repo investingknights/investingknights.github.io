@@ -59,6 +59,9 @@ banner_image: images/banner.jpg
 # Sidebar newsletter widget - add your form action url for MailChimp signup form here
 mailchimp_url: "//investingknights.us12.list-manage.com/subscribe/post?u=304c588fb62fd8018f6bc7429&amp;id=c70ab3417c"
 
+# Analytics ID
+analytics-id:       "UA-115738067-1"
+
 # Social links in the site footer
 twitter_username: "investingknights"
 facebook_username: "username"
