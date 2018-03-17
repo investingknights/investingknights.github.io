@@ -29,7 +29,7 @@ Still, I’ll give a little introduction to each of these winners to help a few 
  - You’ll have at least one friend who lives in a society built by **DLF**.
  - **Bharti Airtel** needs no introduction, their network has the widest coverage area.
  - Who doesn’t have a bank account? You may have heard **HDFC** through their advertisements.
- - Oh, the sweet childhood memories. Remember Fevicol? Leave aside childhood, what to you use when you need to paste something? Single answer, **Fevicol**. Now, it’s your part of the job to pick up the nearest fevicol and look at the manufacturer, that’s where you are introduced to **Pidilite Industries**.
+ - Oh, the sweet childhood memories. Remember Fevicol? Leave aside childhood, what do you use when you need to paste something? Single answer, **Fevicol**. Now, it’s your part of the job to pick up the nearest fevicol and look at the manufacturer, that’s where you are introduced to **Pidilite Industries**.
  - If next time you smoke two street apart from your home, just take a look at the manufacturer on the cigarette box. Most probably it’ll be **ITC**. Some more products from ITC which I’m damn sure you must have consumed.
 <img src="/images/posts/p2_1.jpg" alt="ITC Products" style="display: block; margin-left: auto; margin-right: auto;"/>
  - If you’ve own a two-wheeler or even a four-wheeler and encountered a flat tyre, the mechanic will most probably ask you to use **MRF** tyres.
