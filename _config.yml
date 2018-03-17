@@ -1,0 +1,82 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site title
+title: "Investing Knights"
+
+# A description of your site for social meta tag, search engines, and feed.xml
+description: "Learn to make use of what you already know to make money via investing.
+Investing Knights is a single source of all the information that you need on personal finance along
+with step by step guide for accumulating and growing your wealth. Read on and become a Knight!"
+
+# Tagline near the site title
+tagline: "Join the War of Money"
+
+# The subpath of your site, e.g. /blog, for generating urls
+baseurl:
+
+sass:
+  sass_dir: _sass
+
+# The base hostname & protocol of your site for where absolute urls are needed
+url: "https://investingknights.com"
+
+# Site navigation - each item must have a title and a url.
+navigation:
+- text: Home
+  url: /
+- text: About
+  url: /about/
+#- text: Style Guides
+#  url: /style-guide/
+- text: Archives
+  url: /tags/
+
+# The shortname for your Disqus site to enable comments.
+disqus: investingknights
+
+# Author information - author info at the bottom of the post
+author_name: "Utkarsh Baghel"
+author_bio: "Utkarsh is a blah blah blah"
+author_url:  "http://justgoodthemes.com"
+author_location: "New Delhi, India"
+author_image: /images/authorimage.png
+
+# Sidebar Investing Knights Desciption
+ik_name: "Investing Knights"
+ik_bio: "Learn to make use of what you already know to make money via investing.
+Investing Knights is a single source of all the information that you need on personal finance along
+with step by step guide for accumulating and growing your wealth. Read on and become a Knight!" 
+
+# Sidebar Add banner
+banner_url: "http://justgoodthemes.com"
+banner_image: images/banner.jpg
+
+# Sidebar newsletter widget - add your form action url for MailChimp signup form here
+mailchimp_url: "//investingknights.us12.list-manage.com/subscribe/post?u=304c588fb62fd8018f6bc7429&amp;id=c70ab3417c"
+
+# Social links in the site footer
+twitter_username: "investingknights"
+facebook_username: "username"
+googleplus_username: "+username"
+github_username: "investingknights"
+codepen_username: "username"
+dribbble_uername: "username"
+medium_username: "@username"
+instagram_username: "username"
+pinterest_username: "username"
+linkedin_username: "username"
+
+# http://jekyllrb.com/docs/pagination/
+paginate: 5
+paginate_path: '/blog/page:num/'
+gems: [jekyll-paginate]
+
+permalink: pretty
+markdown: kramdown
+kramdown:
+    auto_ids: false
