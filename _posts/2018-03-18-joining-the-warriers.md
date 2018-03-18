@@ -9,9 +9,12 @@ tags: [companies, money, stocks]
 This post is in continuation with [“**Who is winning this war?**”](https://investingknights.com/2018/03/15/who-is-winning-this-war/)<br/>
 We have learned that we are surrounded by winners and that’s the reason why they are called winners.<br/>
 That said, you don’t have to be Stan Lee to learn that Marvel Studios is creating a lot of buzz in the film industry and have people quite excited for their next Avenger film.<br/>
+
 You don’t have to be an executive at **McDonalds** to know that teenagers prefer treating their friends in McDonalds over celebrating their birthdays at home. You can be a cashier, a cook, a delivery boy, a customer or even someone who washes floor at Mc’D to know that the franchise needs new outlets due to overcrowding in its existing ones.<br/>
 <!--more-->
+
 You don’t have to be a CEO of Maruti Suzuki to know that the company is the undisputed leader in the **Automobile Industry** even after severe competition from the foreign players. Just go anywhere on the road and you can see that approximately every third car is made by Maruti.<br/>
+
 You don’t have to be vice president of **Page Industries** to know that Jockey’s underwears are selling like hotcakes and have become a thing that can be flaunted. I came to know that through the following conversation with my friend, Rishabh.<br/>
 
 >**Me:** Hey, pull up your pants. Your red underwear is showing<br/>
