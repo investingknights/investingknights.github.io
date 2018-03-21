@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Joining The Warriors"
+title:  "Joining The Warriors (Stocks and Bonds)"
 date:   2018-03-18
 banner_image: p4.png
 tags: [companies, money, stocks]
