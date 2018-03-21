@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Who is Winning this WAR? (Basic of Stockpicking)"
+title:  "Who is Winning this WAR? (Introduction to Stockpicking)"
 date:   2018-03-15
 tags: [money, war, companies]
 ---
