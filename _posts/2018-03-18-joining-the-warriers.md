@@ -35,19 +35,19 @@ Well, all I mean is, always keep an eye around you, your friends and what your f
 
 **First**, by joining hands with the winners, you get to [***compound***](https://investingknights.com/2018/03/17/befriending-compound-interest/) your money.
 
-**Second**, our society is a capitalistic one.</br>
-Anyone can start his/her business, no one is assigned a particular role in the community.</br>
-Therefore, **anyone can do whatever he/she wants and utilise their full compatibility**</br>
+**Second**, our society is a capitalistic one.<br/>
+Anyone can start his/her business, no one is assigned a particular role in the community.<br/>
+Therefore, **anyone can do whatever he/she wants and utilise their full compatibility**<br/>
 
-So these companies are nothing but a group of individuals from **our own society** who have taken the initiative to start a business on their own.</br>
+So these companies are nothing but a group of individuals from **our own society** who have taken the initiative to start a business on their own.<br/>
 If you join them, it's a step towards realising their plans</br
 If you believe in their potential and somehow it does gets realised, you're rewarded multiple times the money you offer to help them.
 
-For example, look at stock price of **Maruti Suzuki**</br>
+For example, look at stock price of **Maruti Suzuki**<br/>
 
 <img src="/images/posts/p4_p1.png" alt="Maruti Share Price" style="display: block; margin-left: auto; margin-right: auto;"/>
 
-Current Price INR 8694</br>
+Current Price INR 8694<br/>
 Price back in 2003: INR 170
 
 My father bought Maruti 800 for INR 2.3 lakhs (Year 2003)
