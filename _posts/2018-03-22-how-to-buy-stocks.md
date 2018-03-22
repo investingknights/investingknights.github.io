@@ -56,8 +56,9 @@ It’s really simple to open a demat account and it can be opened within a week 
 ## Choosing a broker
 Even though I have opened my demat account with Zerodha, I didn’t find their platforms smooth enough. Often, I ended up with problems in buying stocks. 
 
-**FYERS** is a new generation broker. Truly transparent with their operations and they’ve gone ahead to upload their certificates of registration, [check out here](https://fyers.in/why-us/)
-That said, I’ll highly recommend FYERS, they have zero brokerage too.
+**FYERS** is a new generation broker. Truly transparent with their operations and they’ve gone ahead to upload their certificates of registration, [check out here](https://fyers.in/why-us/).
+
+**That said, I’ll highly recommend FYERS, they have zero brokerage too.**
 
 ## Bombay Stock Exchange or National Stock Exchange?
 It doesn’t matter from where you purchase a stock.<br/> 
