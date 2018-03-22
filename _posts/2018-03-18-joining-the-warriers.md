@@ -77,10 +77,15 @@ This is what actually happens. Literally everything is taken away by the ED if a
 **A stock is part of a company that is used to signify the ownership of its holder (stockholder) in the company’s earnings and assets.**<br/>
 If the company grows, the stock price will grow too.<br/>
 If the company fails and files for bankruptcy, the stock price will crash.<br/>
+
 We can own a stock of a company just as we own the mobile/laptop/tablet on which you’re reading this except that **it’s only available on the Stock Exchange (A market where stocks are bought and sold) and you cannot buy it directly**.<br/>
 **You need a stock broker to buy stocks on your behalf**. This is not so in case of the bonds.<br/>
+
 Also, if the company goes into ground, the owners are not liable to payback any shareholder. Therefore, **stocks are riskier than bonds**.<br/>
-Having said that, you shouldn’t buy either of them without proper research.
+
+**Having said that, you shouldn’t buy either of them without proper research.**
+
+Want to buy your first stock? [Here's how to do it.](https://investingknights.com/2018/03/22/how-to-buy-stocks/)
 
 **Landing on your favourite company is just a lead to a story that is yet to be developed.**
 
