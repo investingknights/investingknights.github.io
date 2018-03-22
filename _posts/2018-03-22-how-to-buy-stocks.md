@@ -15,14 +15,23 @@ So, you’re interested in buying its stock. Here’s what you need to know befo
 ## Basic terms for Stock Investors
 - **STOCK EXCHANGE/ STOCK MARKET:** A place where investors buy or sell stocks. Note that you can’t buy or sell shares on your own, you need a broker to do that for you.
 - **STOCK BROKER:** A person or a firm who buys or sell stocks on your behalf in return for a small fee called as **brokerage**.
+
 - **BULL MARKET:** Stock prices going up. Investors are optimistic.
+
 - **BEAR MARKET:** Stock prices going down. Investors are pessimistic.
+
 - **DIVIDENDS:** An amount of money per share distributed to shareholders just for owning the stock. Like a rent for an apartment owner.
+
 - **INITIAL PUBLIC OFFERING (IPO):** A company issuing its shares to public for the first time. You can’t own shares in a private company who hasn’t gone for an IPO.
+
 - **MARKET CAPITALIZATION:** Total worth of company’s shares out there for public.
+
 - **BLUE CHIP STOCKS:** Companies that have been around for long time on the market and are too big to fail.
+
 - **PORTFOLIO:** Group of stocks that you own that specifies the price and quantity. Just like a file.
+
 - **DEMAT ACCOUNT:** A type of account that is where your stocks are kept and this account is maintained by the stockbroker.
+
 - **SENSEX/NIFTY:** Group of stocks selected from every sector so that it represents the whole market. **These are also called the benchmark index**.
 
 That’s all you need to know before buying your first stock.
@@ -56,6 +65,7 @@ The prices are almost same on BSE or NSE.
 ## Which Stock to buy?
 That’s the last thing remaining to do.<br/>
 But the point is, **if you ask this question then, what else will be left there for you to do?**<br/>
+
 The choice of stocks that you buy makes all the difference whether you make or lose money.<br/>
 This site is intended for you to be able to buy winning stocks. Refer to my article [Who’s winning this war?](https://investingknights.com/2018/03/15/who-is-winning-this-war/) to learn the basics of stock picking.<br/>
 
