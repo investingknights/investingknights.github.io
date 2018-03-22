@@ -8,7 +8,7 @@ tags: [money, war, companies]
 
 Well, you are surrounded by winners and these winners make all the effort so that they continue to surround you. If they fail to do it, they aren’t winners anymore.
 
-This war has different battle zones **(or sectors)**.
+[This war](https://investingknights.com/2018/03/14/war-of-money/) has different battle zones **(or sectors)**.
 <!--more-->
 Each battle zone has a different winner, some of them are given below -
 
