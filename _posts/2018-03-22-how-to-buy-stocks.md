@@ -14,6 +14,7 @@ So, you’re interested in buying its stock. Here’s what you need to know befo
 <!--more-->
 ## Basic terms for Stock Investors
 - **STOCK EXCHANGE/ STOCK MARKET:** A place where investors buy or sell stocks. Note that you can’t buy or sell shares on your own, you need a broker to do that for you.
+
 - **STOCK BROKER:** A person or a firm who buys or sell stocks on your behalf in return for a small fee called as **brokerage**.
 
 - **BULL MARKET:** Stock prices going up. Investors are optimistic.
@@ -66,7 +67,7 @@ The prices are almost same on BSE or NSE.
 That’s the last thing remaining to do.<br/>
 But the point is, **if you ask this question then, what else will be left there for you to do?**<br/>
 
-The choice of stocks that you buy makes all the difference whether you make or lose money.<br/>
+**The choice of stocks that you buy makes all the difference whether you make or lose money.**<br/>
 This site is intended for you to be able to buy winning stocks. Refer to my article [Who’s winning this war?](https://investingknights.com/2018/03/15/who-is-winning-this-war/) to learn the basics of stock picking.<br/>
 
 In my next article, I’ll cover the tools for analysing a stock.<br/>
