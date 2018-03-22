@@ -8,6 +8,7 @@ tags: [companies, money, stocks]
 
 This post is in continuation with [“**Who is winning this war?**”](https://investingknights.com/2018/03/15/who-is-winning-this-war/)<br/>
 We have learned that we are surrounded by winners and that’s the reason why they are called winners.<br/>
+
 That said, you don’t have to be Stan Lee to learn that Marvel Studios is creating a lot of buzz in the film industry and have people quite excited for their next Avenger film.<br/>
 
 You don’t have to be an executive at **McDonalds** to know that teenagers prefer treating their friends in McDonalds over celebrating their birthdays at home. You can be a cashier, a cook, a delivery boy, a customer or even someone who washes floor at Mc’D to know that the franchise needs new outlets due to overcrowding in its existing ones.<br/>
@@ -28,13 +29,54 @@ You don’t have to be vice president of **Page Industries** to know that Jockey
 And that’s why I’ve stopped pointing out to people if their underwears are showing. Learned through an unusual way though.<br/>
 Well, all I mean is, always keep an eye around you, your friends and what your friends’ moms are buying and you may land up on your winner.<br/>
 
+### **Why should I join with the company who's winning?**
+
+### **What's in it for me?**
+
+**First**, by joining hands with the winners, you get to [***compound***](https://investingknights.com/2018/03/17/befriending-compound-interest/) your money.
+
+**Second**, our society is a capitalistic one.</br>
+Anyone can start his/her business, no one is assigned a particular role in the community.</br>
+Therefore, **anyone can do whatever he/she wants and utilise their full compatibility**</br>
+
+So these companies are nothing but a group of individuals from **our own society** who have taken the initiative to start a business on their own.</br>
+If you join them, it's a step towards realising their plans</br
+If you believe in their potential and somehow it does gets realised, you're rewarded multiple times the money you offer to help them.
+
+For example, look at stock price of **Maruti Suzuki**</br>
+
+<img src="/images/posts/p4_p1.png" alt="Maruti Share Price" style="display: block; margin-left: auto; margin-right: auto;"/>
+
+Current Price INR 8694</br>
+Price back in 2003: INR 170
+
+My father bought Maruti 800 for INR 2.3 lakhs (Year 2003)
+
+If he had bought stocks of the company instead, we would have around
+
+2.3 lakhs X (8694/170) = 117.62 lakhs or ***INR 1.17 crore***
+
+Which would look something like this
+
+<img src="/images/posts/p4_p2.jpg" alt="Money" style="display: block; margin-left: auto; margin-right: auto;"/>
+
+Unfortunately, all I have is 
+
+<img src="/images/posts/p4_p3.png" alt="Maruti 800" style="display: block; margin-left: auto; margin-right: auto;"/>
+
+Sad news, the car got stolen last month. I don't even have the car now.
+
+Yeah, I can hear you laughing.
+
+So I think, it's pretty clear why should you join the warriors in this [**Corporate War of Money**](https://investingknights.com/2018/03/14/war-of-money/). It's a win-win situation for everyone.
+
 ### I’ve got it! I’ve got it! – How do I join with company?
 
 There are two ways to join with company -
 - **Through BONDS**
 - **Through STOCKS**
 
-<img src="/images/posts/p4_1.jpg" alt="ITC Products" style="display: block; margin-left: auto; margin-right: auto;"/>
+<img src="/images/posts/p4_1.jpg" alt="Stocks and Bonds" style="display: block; margin-left: auto; margin-right: auto;"/>
 
 The companies issue each of them in order to raise the cash for their operations. However, Bonds and Stocks both come under the category of Investments but are completely different from each other.<br/> 
 I’ll try to define these terms in the easiest language possible.
