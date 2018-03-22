@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Who is Winning this WAR? (Stockpicking)"
+title:  "Who is winning this War? (Stockpicking)"
 date:   2018-03-15
 banner_image: p2.png
 tags: [money, war, companies]
