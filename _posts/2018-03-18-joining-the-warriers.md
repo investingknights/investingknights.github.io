@@ -40,7 +40,7 @@ Anyone can start his/her business, no one is assigned a particular role in the c
 Therefore, **anyone can do whatever he/she wants and utilise their full compatibility**<br/>
 
 So these companies are nothing but a group of individuals from **our own society** who have taken the initiative to start a business on their own.<br/>
-If you join them, it's a step towards realising their plans</br
+If you join them, it's a step towards realising their plans<br/>
 If you believe in their potential and somehow it does gets realised, you're rewarded multiple times the money you offer to help them.
 
 For example, look at stock price of **Maruti Suzuki**<br/>
