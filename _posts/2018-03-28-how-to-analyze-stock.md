@@ -80,7 +80,7 @@ We have one more characteristic, **EPS**
   <img src="/images/posts/p6_3.png" alt="Peer Comparison" style="display: block; margin-left: auto; margin-right: auto;"/>
 </a>
 
-The last row which is highlighted in bold shows **earnings per share (EPS)** for Maithan Alloys for
+The fifth row which is highlighted in bold shows **earnings per share (EPS)** for Maithan Alloys for
 1. Preceding previous financial year
 2. Previous financial year
 3. Last 12 months
@@ -93,7 +93,7 @@ Price for Tata Steel share is **INR 566.50** whereas for Maithan Alloys, it is *
 The first thought to enter your mind is that **“Tata steel share is cheaper than Maithan Alloys, I can buy more stocks of Tata than Maithan.”**<br/>
 I’ve taken this attribute first intentionally to make a special mention of my point
 
-**<u>STOCK PRICE IS THE LAST PERIMETER TO JUDGE A STOCK</u>**
+**<u>STOCK PRICE IS THE LAST PARAMETER TO JUDGE A STOCK</u>**
 
 Usually, people look at price chart and enter in the stock if the price has been increasing continuously.<br/>
 That’s very dangerous when it comes to investing in the market.<br/>
@@ -187,7 +187,7 @@ Coming back to our 2 companies,
 
 **Tata has profit of**
 - **-36.44 %** over 3 years
-- **-2243 %** over 5 years
+- **-22.43 %** over 5 years
 
 These figures are compounded annually<br/>
 It’s fairly clear from the numbers that Tata is running at a loss from last 5 years. I would stay away from Tata
