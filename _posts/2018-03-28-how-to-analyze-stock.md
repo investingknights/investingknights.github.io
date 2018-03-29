@@ -44,7 +44,9 @@ For example, I was wondering, with the growth of construction and automobile sec
 I checked Tata Steel on [**Screener.in**](https://www.screener.in/)<br/> 
 Here is what I got.
 
-{% lightbox images/posts/p6_1.png --thumb="images/posts/p6_1.png" --data="Peer Comparison" --title="Peer Comparison" --alt="Peer Comparison" --img-style="display: block; margin-left: auto; margin-right: auto;" %}
+<a href="/images/posts/p6_1.png" data-lightbox="Peer Comparison" data-title="Peer Comparison">
+  <img src="/images/posts/p6_1.png" alt="Peer Comparison" style="display: block; margin-left: auto; margin-right: auto;"/>
+</a>
 
 **CMP:** Current Market Price = INR 566.50<br/>
 **P/E:** Price to Earnings Ratio = 14.29<br/>
@@ -60,7 +62,9 @@ You can click on customize columns and add all the above characteristics.<br/>
 After analysing Tata Steel, I found a better company, [**Maithan Alloys**](http://maithanalloys.com/).<br/>
 Here are its numbers
 
-{% lightbox images/posts/p6_2.jpg --thumb="images/posts/p6_2.jpg" --data="Peer Comparison" --title="Peer Comparison" --alt="Peer Comparison" --img-style="display: block; margin-left: auto; margin-right: auto;" %}
+<a href="/images/posts/p6_2.jpg" data-lightbox="Peer Comparison" data-title="Peer Comparison">
+  <img src="/images/posts/p6_2.jpg" alt="Peer Comparison" style="display: block; margin-left: auto; margin-right: auto;"/>
+</a>
 
 **CMP:** Current Market Price = INR 800<br/>
 **P/E:** Price to Earnings Ratio = 7.63<br/>
@@ -72,7 +76,9 @@ Here are its numbers
 
 We have one more characteristic, **EPS**
 
-{% lightbox images/posts/p6_3.png --thumb="images/posts/p6_3.png" --data="Peer Comparison" --title="Peer Comparison" --alt="Peer Comparison" --img-style="display: block; margin-left: auto; margin-right: auto;" %}
+<a href="/images/posts/p6_3.png" data-lightbox="Peer Comparison" data-title="Peer Comparison">
+  <img src="/images/posts/p6_3.png" alt="Peer Comparison" style="display: block; margin-left: auto; margin-right: auto;"/>
+</a>
 
 The last row which is highlighted in bold shows **earnings per share (EPS)** for Maithan Alloys for
 1. Preceding previous financial year
@@ -94,7 +100,9 @@ That’s very dangerous when it comes to investing in the market.<br/>
 **You can never predict the future price of a stock by extrapolating the historical prices.**<br/>
 Still don’t believe me? Have a look.
 
-{% lightbox images/posts/p6_4.png --thumb="images/posts/p6_4.png" --data="Vakrangee Graph" --title="Vakrangee Graph" --alt="Vakrangee Graph" --img-style="display: block; margin-left: auto; margin-right: auto;" %}
+<a href="/images/posts/p6_4.png" data-lightbox="Vakrangee Graph" data-title="Vakrangee Graph">
+  <img src="/images/posts/p6_4.png" alt="Vakrangee Graph" style="display: block; margin-left: auto; margin-right: auto;"/>
+</a>
 
 This is the price chart for **Vakrangee.**<br/> 
 The share price increases continuously from **INR 48 to INR 500** and then loses 50% and drops to INR 250.<br/>
@@ -110,7 +118,9 @@ Lower the P/E ratio, the better it is but the point is, high growth companies ha
 **You can compare P/E ratio of companies in the same sector.**<br/>
 Different sectors have different P/E ratio. Have a look.
 
-{% lightbox images/posts/p6_5.png --thumb="images/posts/p6_5.png" --data="P/E Ratio" --title="P/E Ratio" --alt="P/E Ratio" --img-style="display: block; margin-left: auto; margin-right: auto;" %}
+<a href="/images/posts/p6_5.png" data-lightbox="P/E Ratio" data-title="P/E Ratio">
+  <img src="/images/posts/p6_5.png" alt="P/E Ratio" style="display: block; margin-left: auto; margin-right: auto;"/>
+</a>
 
 This data has been picked up from Moneycontrol.com for Maithan Alloys
 Industry P/E for steel sector is 13.33<br/>
@@ -218,7 +228,9 @@ I will never invest in a company whose EPS is decreasing year on year.<br/>
 EPS for Tata Steel is inconsistent therefore this should be reflected in the stock price.<br/> 
 Look at the stock price. You can notice that stock price is increasing since last year, well that’s because EPS increased from -37.64 to 8.90
 
-{% lightbox images/posts/p6_6.png --thumb="images/posts/p6_6.png" --data="TATA Steel Stock Price" --title="TATA Steel Stock Price" --alt="TATA Steel Stock Price" --img-style="display: block; margin-left: auto; margin-right: auto;" %}
+<a href="/images/posts/p6_6.png" data-lightbox="TATA Steel Stock Price" data-title="TATA Steel Stock Price">
+  <img src="/images/posts/p6_6.png" alt="TATA Steel Stock Price" style="display: block; margin-left: auto; margin-right: auto;"/>
+</a>
 
 **EPS for Maithan Alloys (historical)**
 - **INR 27.15, profit**
@@ -229,7 +241,9 @@ EPS for Maithan Alloys is increasing year on year consistently.<br/>
 As is said earlier, stock price follows the earnings.<br/>
 Look at the stock price of Maithan Alloys.
 
-{% lightbox images/posts/p6_7.png --thumb="images/posts/p6_7.png" --data="Maithan Alloys Stock Price" --title="Maithan Alloys Stock Price" --alt="Maithan Alloys Stock Price" --img-style="display: block; margin-left: auto; margin-right: auto;" %}
+<a href="/images/posts/p6_7.png" data-lightbox="Maithan Alloys Stock Price" data-title="Maithan Alloys Stock Price">
+  <img src="/images/posts/p6_7.png" alt="Maithan Alloys Stock Price" style="display: block; margin-left: auto; margin-right: auto;"/>
+</a>
 
 ### Checked all the parameters, what next?
 
