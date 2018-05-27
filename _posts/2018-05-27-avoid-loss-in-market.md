@@ -74,3 +74,6 @@ Obviously, it’s easier said than done!
 Therefore the following questions arises
 - [How to find great businesses?](https://investingknights.com/2018/03/15/who-is-winning-this-war/)
 - [How to check whether the stock is worth owning?](https://investingknights.com/2018/03/28/how-to-analyze-stock/)
+
+Refer the book below to learn the art of investing deeply<br/>
+<a target="_blank" href="https://www.amazon.in/gp/product/1482850885/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=1482850885&linkCode=as2&tag=viveksb007-21&linkId=f2d9e434046897e6476d5440280f55c0">How to Avoid Loss and Earn Consistently in the Stock Market: An Easy-To-Understand and Practical Guide for Every Investor</a><img src="//ir-in.amazon-adsystem.com/e/ir?t=viveksb007-21&l=am2&o=31&a=1482850885" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
