@@ -4,6 +4,8 @@ title:  "What is War of Money?"
 date:   2018-03-14
 banner_image: war_of_money.png
 tags: [money, war]
+author_name: Utkarsh Baghel
+section: stocks
 ---
 
 ## What role do you and I have to play in this war?

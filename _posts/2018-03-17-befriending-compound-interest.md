@@ -4,6 +4,8 @@ title:  "BEFRIENDING COMPOUND INTEREST"
 date:   2018-03-17
 banner_image: power_compounding.png
 tags: [money, compounding, interest]
+author_name: Utkarsh Baghel
+section: stocks
 ---
 
 Compound Interest, the best friend that anyone can have, is also called as the **eighth wonder of the world** by none other than **Albert Einstein** himself!

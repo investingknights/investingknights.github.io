@@ -4,6 +4,8 @@ title:  "How to buy Stocks? (Stock Market Basics)"
 date:   2018-03-22
 banner_image: p5.png
 tags: [companies, money, stocks]
+author_name: Utkarsh Baghel
+section: stocks
 ---
 
 In the previous post [Joining the Warriors (Stocks and Bonds)](https://investingknights.com/2018/03/18/joining-the-warriers/), we learned about the term **Stocks** and **Bonds** and how are they different.

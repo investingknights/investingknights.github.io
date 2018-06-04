@@ -4,6 +4,8 @@ title:  "MUST READ BOOKS FOR EVERY INVESTOR"
 date:   2018-06-02
 banner_image: p8.png
 tags: [investing, books]
+author_name: Utkarsh Baghel
+section: stocks
 ---
 
 It’s a well-known fact that all the legendary Investors, CEOs and Business-people have one thing in common – **they read a lot!**

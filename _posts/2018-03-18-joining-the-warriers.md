@@ -4,6 +4,8 @@ title:  "Joining The Warriors (Stocks and Bonds)"
 date:   2018-03-18
 banner_image: p4.png
 tags: [companies, money, stocks]
+author_name: Utkarsh Baghel
+section: stocks
 ---
 
 This post is in continuation with [“**Who is winning this war?**”](https://investingknights.com/2018/03/15/who-is-winning-this-war/)<br/>

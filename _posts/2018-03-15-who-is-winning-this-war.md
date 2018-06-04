@@ -4,6 +4,8 @@ title:  "Who is winning this War? (Stockpicking)"
 date:   2018-03-15
 banner_image: p2.png
 tags: [money, war, companies]
+author_name: Utkarsh Baghel
+section: stocks
 ---
 
 Well, you are surrounded by winners and these winners make all the effort so that they continue to surround you. If they fail to do it, they aren’t winners anymore.

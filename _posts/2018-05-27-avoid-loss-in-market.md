@@ -4,6 +4,8 @@ title:  "How to avoid loss in market? (Beginner's Mistakes)"
 date:   2018-05-27
 banner_image: p7.png
 tags: [trading, hedging, stocks]
+author_name: Utkarsh Baghel
+section: stocks
 ---
 
 In this post, we will learn about the mistakes that investors generally do in the beginning.<br/>

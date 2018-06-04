@@ -4,6 +4,8 @@ title:  "How to Analyse any Stock?"
 date:   2018-03-28
 banner_image: p6.png
 tags: [companies, Tata, stocks]
+author_name: Utkarsh Baghel
+section: stocks
 ---
 
 After learning [How to Buy Stocks](https://investingknights.com/2018/03/22/how-to-buy-stocks/), through this post, we will learn whether a stock is worth buying or not.<br/>
