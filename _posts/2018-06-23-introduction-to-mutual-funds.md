@@ -13,7 +13,7 @@ After reading this article, you’ll know everything that you need to know about
 ## What exactly is a Mutual Fund?
 A Mutual Fund is an investment scheme which invests your money on your behalf into diversified holdings such as equity, gold, bonds, commodities and real estate etc. It promises certain rate of return for which it charges a small fee.
 
-Mutual Funds (MFs) are managed by well qualified and experienced professionals who are best suited to maximise returns while minimizing losses.<br/> 
+**Mutual Funds (MFs)** are managed by well qualified and experienced professionals who are best suited to maximise returns while minimizing losses.<br/> 
 This is the reason why MFs are always recommended for beginners who have no idea regarding investing.<br/> 
 Investing in MFs is much safer than investing in equity on your own if you don’t have any experience.
 <!--more-->
@@ -67,6 +67,7 @@ Even if you’ve determined your level of risk, still you may end up with plenty
 
 ### Step 2: Find out the Expense Ratio
 All expenses related to mutual funds are together called Total Expense Ratio or TER. Total Expense Ratio is the annual expense incurred on the mutual fund held by an investor.<br/>
+
 **_Here is a comparison from website bankbazaar.com_**
 
 “So, if you have made an investment of Rs. 10,000 with an expense ratio of 1.5%, you will be paying Rs.150 to the fund house. If the fund grows by 10%, you will only receive 8.5% returns as 1.5% will be deducted as an expense ratio. If you are looking at a short-term investment, this amount may appear trivial but if you are making an investment for a period of say 15 years, this amount will get compounded. You will realise that you could have fetched higher returns if you had made the investment in a fund with a lower expense ratio.<br/>
