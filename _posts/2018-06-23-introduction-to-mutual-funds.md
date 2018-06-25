@@ -73,13 +73,9 @@ All expenses related to mutual funds are together called Total Expense Ratio or 
 “So, if you have made an investment of Rs. 10,000 with an expense ratio of 1.5%, you will be paying Rs.150 to the fund house. If the fund grows by 10%, you will only receive 8.5% returns as 1.5% will be deducted as an expense ratio. If you are looking at a short-term investment, this amount may appear trivial but if you are making an investment for a period of say 15 years, this amount will get compounded. You will realise that you could have fetched higher returns if you had made the investment in a fund with a lower expense ratio.<br/>
 How an investment of Rs.1 lakh will perform with different expense ratios over a period of 1, 5, 10, 15, and 20 years.
 
-|  			Years 			 			 		 |  			       0% 			 			 		   |  			     0.5% 			 			 		   |  			       1% 			 			 		   |  			       1.5% 			 			 		 |  			        2% 		  |
-|-----------|-----------------|-----------------|-----------------|-----------------|---------------|
-|  			1  			 		     |  			Rs.1,12,000 			 			 		 |  			Rs.1,11,400 			 			 		 |  			1,10,880 			 			 		    |  			Rs.1,10,320 			 			 		 |  			Rs.1,09,760 		 |
-|  			5  			 		     |  			Rs.1,76,234 			 			 		 |  			Rs.1,71,872 			 			 		 |  			Rs.1,67,597 			 			 		 |  			Rs.1,63,407 			 			 		 |  			Rs.1,59,302 		 |
-|  			10  			 		    |  			Rs.3,10,585 			 			 		 |  			Rs.2,95,400 			 			 		 |  			Rs.2,80,887 			 			 		 |  			Rs.2,67,019 			 			 		 |  			Rs.2,53,770 		 |
-|  			15  			 		    |  			Rs.5,47,357 			 			 		 |  			Rs.5,07,711 			 			 		 |  			Rs.4,70,759 			 			 		 |  			Rs.4,36,329 			 			 		 |  			Rs.4,04,261 		 |
-|  			20  			 		    |  			Rs.9,64,629 			 			 		 |  			Rs.8,72,614 			 			 		 |  			Rs.7,88,977 			 			 		 |  			Rs.7,12,993 			 			 		 |  			Rs.6,43,994 		 |
+<a href="/images/posts/p9_1.png" data-lightbox="BankBazaar Example" data-title="BankBazaar Example">
+  <img src="/images/posts/p9_1.png" alt="BankBazaar Example" style="display: block; margin-left: auto; margin-right: auto;"/>
+</a>
 
 The above calculation is done considering 12% returns.”
 
