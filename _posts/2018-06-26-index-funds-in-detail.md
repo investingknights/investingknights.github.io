@@ -16,7 +16,7 @@ It is a fund that invest in benchmark indices such as SENSEX and NIFTY.<br/>
 It is not actively managed by any manager hence it is very cost effective as compared to other funds.
 
 For example, **UTI Nifty** fund has an expense ratio of 0.2% whereas **SBI Blue-chip** Fund has an expense ratio of 1.98% which is very high.
-
+<!--more-->
 ## Why it’s the best?
 Well, when selecting a MF, what most of us do?<br/>
 We just look at the previous track records of various MFs and select the best performer.<br/>
